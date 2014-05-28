@@ -14,10 +14,9 @@ namespace HookDemo.Controllers
             return View();
         }
 
-        public ActionResult Hook(string payload)
+        public ActionResult Hook(string zen)
         {
-            dynamic json = JObject.Parse(payload);
-            return View(model: json.zen.ToString());
+            return View(model: zen);
         }
 
         public ActionResult About()
