@@ -12,7 +12,7 @@ namespace OcktokitDemo
     {
         static void Main(string[] args)
         {
-            var username = "dimensionmedia";
+            var username = "nikmd23";
 
             var github = new GitHubClient(new ProductHeaderValue("nikmd23-octokit-demo"));
             var user = github.User.Get(username).Result;
