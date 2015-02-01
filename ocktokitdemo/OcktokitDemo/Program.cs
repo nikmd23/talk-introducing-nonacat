@@ -1,9 +1,5 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
 using System.Net.Http.Headers;
-using System.Text;
-using System.Threading.Tasks;
 using Octokit;
 
 namespace OcktokitDemo
@@ -12,7 +8,7 @@ namespace OcktokitDemo
     {
         static void Main(string[] args)
         {
-            var username = "nikmd23";
+            var username = "pathyatt";
 
             var github = new GitHubClient(new ProductHeaderValue("nikmd23-octokit-demo"));
             var user = github.User.Get(username).Result;

@@ -49,6 +49,7 @@ You can even ~~delete~~ cross out text as you see fit.
 
 ## Emoji
 
-:sparkles::camel::boom:
+:sparkles::camel::boom: :neckbeard: :neckbeard:
+
 
 Get the full list from [Emoji Cheat Sheet](http://www.emoji-cheat-sheet.com/)

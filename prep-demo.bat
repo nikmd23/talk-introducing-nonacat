@@ -4,7 +4,7 @@ set "fileList="
 for %%i in (
 
 http://www.mehdi-khalili.com/github-wishlist
-http://daringfireball.net/projects/markdown/
+http://commonmark.org/
 http://www.emoji-cheat-sheet.com/
 http://www.emojidick.com/
 https://github.com/nikmd23/ossperks
@@ -13,22 +13,20 @@ https://github.com/Glimpse/Glimpse
 http://5minfork.com/
 https://github.com/nikmd23/oss0to60
 https://github.com/jquery/jquery
-https://huboard.com/nikmd23/scratchPad
 https://gist.github.com/zalun/606699/
 http://jsfiddle.net/gh/gist/mootools/1.2/606699/
 https://github.com/
 https://github.com/nikmd23/scratchPad/commits/master
-https://ifttt.com/dashboard
-http://www.philliphaydon.com/2014/02/fixing-github-with-chrome-plugin-github-expandinizr/
-http://userscripts.org:8080/
-https://c9.io/nikmd23/voterscript
+http://twitterfeed.com/
+https://twitter.com/DevToolsCommits
+https://github.com/buunguyen/octotree
+https://github.com/sanemat/do-not-merge-wip-for-github
 http://www.webhooks.org/
 https://github.com/nikmd23/scratchPad/settings/hooks/
 http://requestb.in/
 https://ngrok.com/
 http://localhost:64674/
 http://localhost:4040/
-https://signatory.io/
 http://octokit.github.io/
 https://github.com/Glimpse/Semantic-Release-Notes/issues/11
 http://www.asciiflow.com/
